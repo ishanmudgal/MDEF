@@ -2,7 +2,7 @@
 site_name: Ishan's Space
 site_description: Master in Design for Emergent Futures
 site_author: Ishan
-copyright: Copyleft 2023 "Student Name" - GNU Free Documentation License
+copyright: Copyright 2025 "Ishan Mudgal" - GNU Free Documentation License
 repo_name: "Name : Github Repo"
 site_url: https://fablabbcn.github.io/mdef-template/
 repo_url: "https://github.com/fablabbcn/mdef-template"
@@ -39,7 +39,8 @@ theme:
   name: material
   palette:
     # try other colors https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors
-    primary: blue
+    scheme: slate
+    primary: 
     accent: purple
   font:
     # See available fonts at https://fonts.google.com/
