@@ -38,14 +38,12 @@ extra:
 theme:
   name: material
   palette:
-    # try other colors https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors
-    scheme: slate
-    primary: 
-    accent: purple
+    scheme: user_color_mode_toggle
+    primary: red
+    accent: red
   font:
-    # See available fonts at https://fonts.google.com/
-    text: Be Vietnam
-    code: Cutive Mono
+    text: Space Grotesk
+    code: JetBrains Mono
   icon:
     logo: material/memory
   favicon: images/favicon.svg
@@ -54,8 +52,6 @@ theme:
     - navigation.expand
     - navigation.indexes
     - navigation.instant
-    # - navigation.prune
-    # - navigation.sections
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.top
@@ -109,4 +105,7 @@ markdown_extensions:
 
 extra_css:
   - stylesheets/extra.css
-  - https://unpkg.com/material-components-web@latest/dist/material-components-web.min.css
+  - stylesheets/brutalist-theme.css
+
+extra_javascript:
+  - javascripts/brutalist-theme.js
