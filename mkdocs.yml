@@ -1,7 +1,7 @@
 # Replace the text below to customize your site
 site_name: Ishan's Space
 site_description: Master in Design for Emergent Futures
-site_author: Ishan
+site_author: Ishan Mudgal
 copyright: Copyright 2025 "Ishan Mudgal" - GNU Free Documentation License
 repo_name: "Name : Github Repo"
 site_url: https://fablabbcn.github.io/mdef-template/
@@ -38,9 +38,10 @@ extra:
 theme:
   name: material
   palette:
-    scheme: user_color_mode_toggle
-    primary: red
-    accent: red
+    scheme: default
+    primary: custom
+    accent: custom
+  custom_dir: overrides
   font:
     text: Space Grotesk
     code: JetBrains Mono
@@ -104,8 +105,4 @@ markdown_extensions:
   - pymdownx.tabbed
 
 extra_css:
-  - stylesheets/extra.css
-  - stylesheets/brutalist-theme.css
-
-extra_javascript:
-  - javascripts/brutalist-theme.js
+  - stylesheets/custom.css
