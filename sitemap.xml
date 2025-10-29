@@ -2,22 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://fablabbcn.github.io/mdef-template/</loc>
-         <lastmod>2025-10-22</lastmod>
+         <lastmod>2025-10-29</lastmod>
+    </url>
+    <url>
+         <loc>https://fablabbcn.github.io/mdef-template/instructions/</loc>
+         <lastmod>2025-10-29</lastmod>
     </url>
     <url>
          <loc>https://fablabbcn.github.io/mdef-template/about/me/</loc>
-         <lastmod>2025-10-22</lastmod>
+         <lastmod>2025-10-29</lastmod>
     </url>
     <url>
          <loc>https://fablabbcn.github.io/mdef-template/project/project/</loc>
-         <lastmod>2025-10-22</lastmod>
+         <lastmod>2025-10-29</lastmod>
     </url>
     <url>
          <loc>https://fablabbcn.github.io/mdef-template/term1/01-Bootcamp/</loc>
-         <lastmod>2025-10-22</lastmod>
+         <lastmod>2025-10-29</lastmod>
     </url>
     <url>
          <loc>https://fablabbcn.github.io/mdef-template/term1/02-Atlas%20of%20Weak%20Signals/</loc>
-         <lastmod>2025-10-22</lastmod>
+         <lastmod>2025-10-29</lastmod>
     </url>
 </urlset>
