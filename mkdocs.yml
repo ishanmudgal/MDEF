@@ -11,8 +11,8 @@ nav:
   - HOME: home/index.md
   - ABOUT: home/me.md
   - STUDIO 01:
-      # - Design Bet: studio_01/bet.md
-      # - Initial Ideas: studio_01/initial.md
+      - Design Bet: studio_01/bet.md
+      - Initial Ideas: studio_01/initial.md
       - 3 Actions: studio_01/actions.md
   - REFLECTIONS 01:
       - Living With Your Own Ideas: 
