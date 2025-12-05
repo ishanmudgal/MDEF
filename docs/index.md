@@ -2,6 +2,6 @@ Welcome to my space. You can see my work done during the ==MDEF== programme at =
 
 ??? tip "Experiments in Touch Designer"
 
-    ![](../images/touchmouse1.gif)
+    ![](images/touchmouse1.gif)
 
-![](../images/Hands.jpg)
+![](images/Hands.jpg)
