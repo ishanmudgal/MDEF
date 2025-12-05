@@ -71,8 +71,8 @@ theme:
 
 plugins:
   - search
-  - git-revision-date-localized:
-      fallback_to_build_date: true
+  # - git-revision-date-localized:
+  #     fallback_to_build_date: true
   # - toggle-sidebar:
   #     theme: material
   #     toggle_button: all
