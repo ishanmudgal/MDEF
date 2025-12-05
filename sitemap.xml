@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+         <loc>https://fablabbcn.github.io/mdef-template/</loc>
+         <lastmod>2025-12-05</lastmod>
+    </url>
+    <url>
          <loc>https://fablabbcn.github.io/mdef-template/instructions/</loc>
          <lastmod>2025-12-05</lastmod>
     </url>
