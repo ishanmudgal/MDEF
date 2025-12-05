@@ -1,5 +1,6 @@
 mkdocs
-mkdocs-material<5.5.12
+mkdocs-material<9.7.0
 mkdocs-material-extensions
 mkdocs-git-revision-date-localized-plugin
 pymdown-extensions>=10.0
+
