@@ -8,7 +8,10 @@
     --mdc-typography-headline6-font-family: 'Space Grotesk', sans-serif;
     --mdc-typography-font-family: 'Be Vietnam', sans-serif;
     --md-typeset-a-color: rgb(212, 212, 212);
-    --md-typeset-b-color: rgb(237, 237, 237);
+    --md-default-fg-color: hsla(0, 0%, 83%, 0.87);
+    --md-default-fg-color--light: hsla(0, 0%, 80%, 0.821);
+    --md-default-fg-color--lighter: hsla(0, 0%, 91%, 0.742);
+    --md-default-fg-color--lightest: hsl(0, 0%, 95%);
 
 }
 
@@ -30,7 +33,7 @@
 .cardContent {
   padding: 16px;
   font-size: 16px;
-  color: rgb(185, 185, 185);
+  color: rgb(252, 252, 252);
 }
 
 .md-typeset h2 {

@@ -8,18 +8,21 @@ site_url: https://fablabbcn.github.io/mdef-template/
 repo_url: "https://github.com/fablabbcn/mdef-template"
 
 nav:
-  - Home: index.md
-  - About: about/me.md
-  - Master project:
-      - Initial ideas: project/project.md
-  - Reflections:
-      - Term 1:
-          - Bootcamp: term1/01-Bootcamp.md
-          - AoWS: term1/02-Atlas of Weak Signals.md
-
-      - Term 2:
-          - digi: term1/01-Bootcamp.md
-          - studio: term1/01-Bootcamp.md
+  - HOME: home/index.md
+  - ABOUT: home/me.md
+  - STUDIO 01:
+      # - Design Bet: studio_01/bet.md
+      # - Initial Ideas: studio_01/initial.md
+      - 3 Actions: studio_01/actions.md
+  - REFLECTIONS 01:
+      - Living With Your Own Ideas: 
+          - Prosthetic Prototyping: reflections_01/prototypes.md
+          - My Reflections: reflections_01/reflections.md
+  - OTHER SPECIES 01:
+          - WIP: otherspecies_01/otherspecies.md
+  - FABRICATION:
+      - Pre-courses & Fundamentals: fabrication/fabrication.md
+      - Explorations: fabrication/fab_explorations.md
 
 extra:
   social:
@@ -37,16 +40,24 @@ extra:
 
 theme:
   name: material
+  # name: simple-blog
+  # name: dracula
   palette:
-    scheme: default
-    primary: custom
-    accent: custom
+    scheme: slate
+    primary: default
+    accent: default
   custom_dir: overrides
   font:
-    text: Space Grotesk
-    code: JetBrains Mono
+    # text: Space Grotesk
+    # text: Rubik Maze
+    # text: Lexend Peta
+    text: Jura
+    code: Cutive Mono
   icon:
     logo: material/memory
+    annotation:
+    admonition:
+      note: material/image-multiple 
   favicon: images/favicon.svg
   features:
     - instant
@@ -55,13 +66,17 @@ theme:
     - navigation.instant
     - navigation.tabs
     - navigation.tabs.sticky
-    - navigation.top
+    # - navigation.top
     - navigation.tracking
 
 plugins:
   - search
   - git-revision-date-localized:
       fallback_to_build_date: true
+  - toggle-sidebar:
+      theme: material
+      toggle_button: all
+      enabled: True
 
 markdown_extensions:
   - extra
@@ -76,13 +91,9 @@ markdown_extensions:
   - def_list
   - pymdownx.tasklist:
       custom_checkbox: true
-
+  - attr_list
   - md_in_html
-  - admonition
-  - codehilite
   - footnotes
-  - toc:
-      permalink: true
   - pymdownx.arithmatex
   - pymdownx.betterem:
       smart_enable: all
@@ -90,7 +101,8 @@ markdown_extensions:
   - pymdownx.critic
   - pymdownx.details
   - pymdownx.emoji:
-      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - pymdownx.inlinehilite
   - pymdownx.magiclink
   - pymdownx.mark
@@ -98,11 +110,12 @@ markdown_extensions:
   - pymdownx.snippets:
       base_path: "docs"
   - pymdownx.superfences
-  - pymdownx.tasklist:
-      custom_checkbox: true
+  - pymdownx.keys
   - pymdownx.tilde
-  - attr_list
-  - pymdownx.tabbed
+  - pymdownx.tabbed:
+      alternate_style: true
+
 
 extra_css:
+  # - stylesheets/extra.css
   - stylesheets/custom.css
