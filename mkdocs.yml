@@ -73,10 +73,10 @@ plugins:
   - search
   - git-revision-date-localized:
       fallback_to_build_date: true
-  - toggle-sidebar:
-      theme: material
-      toggle_button: all
-      enabled: True
+  # - toggle-sidebar:
+  #     theme: material
+  #     toggle_button: all
+  #     enabled: True
 
 markdown_extensions:
   - extra
