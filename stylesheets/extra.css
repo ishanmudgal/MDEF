@@ -1,0 +1,46 @@
+:root>* {
+
+    --md-footer-bg-color: rgba(22, 22, 22, 0.089);
+    --md-footer-fg-color: rgb(169, 169, 169);
+    --md-footer-bg-color--dark: rgb(13, 13, 13);
+    --md-footer-fg-color--lighter:  rgb(255, 43, 43);
+    --md-footer-fg-color--light:  rgb(203, 29, 29);
+    --mdc-typography-headline6-font-family: 'Space Grotesk', sans-serif;
+    --mdc-typography-font-family: 'Be Vietnam', sans-serif;
+    --md-typeset-a-color: rgb(212, 212, 212);
+    --md-default-fg-color: hsla(0, 0%, 83%, 0.87);
+    --md-default-fg-color--light: hsla(0, 0%, 80%, 0.821);
+    --md-default-fg-color--lighter: hsla(0, 0%, 91%, 0.742);
+    --md-default-fg-color--lightest: hsl(0, 0%, 95%);
+
+}
+
+
+.hide-scroll-bar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+  .hide-scroll-bar::-webkit-scrollbar {
+    display: none;
+  }
+
+  .md-typeset .md-button--primary {
+    border-width: 1px;
+    border-color: rgb(219, 219, 219);
+    border-radius: 4px;
+  }
+
+.cardContent {
+  padding: 16px;
+  font-size: 16px;
+  color: rgb(252, 252, 252);
+}
+
+.md-typeset h2 {
+    font-weight: 500;
+}
+
+.mdc-typography--body2 {
+    font-weight: 300;
+    font-size: 14px;
+}
