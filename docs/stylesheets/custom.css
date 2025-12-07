@@ -1,19 +1,18 @@
-:root {
+:root > * {
   --md-primary-fg-color: #333333;
-  --md-accent-fg-color: #00f3df; 
-  --mdc-typography-headline6-font-family: 'Space Grotesk', sans-serif;
+  --md-accent-fg-color: #00f3df;
   --md-default-fg-color: hsla(0, 0%, 83%, 0.87);
-  --md-default-fg-color--light: hsla(0, 0%, 80%, 0.821);
+  --md-default-fg-color--light: hsla(0, 2%, 92%, 0.821);
   --md-default-fg-color--lighter: hsla(0, 0%, 91%, 0.742);
   --md-default-fg-color--lightest: hsl(0, 0%, 95%);
-  --md-typeset-a-color: #ffffff;
+  --md-typeset-a-color: #ff7373;
   --md-typeset-mark-color: #e1ff00;
-}
+} 
 
 .md-sidebar {
   --md-default-bg-color: hsla(0, 0%, 8%, 0);
-  --md-typeset-a-color: #ffffff;
-
+  --md-typeset-a-color: #ba89ff;
+  /* --md-typeset-a-color: #ff3f8c; */
 }
 .md-header {
   background-color: #171717;
@@ -23,16 +22,5 @@
 }
 
 body {
-  --md-primary-fg-color: #333333;
   background-color: #1c1c1c;
-  /* background-image:
-    url("https://www.transparenttextures.com/patterns/bo-play.png");
-  background-repeat: repeat;
-  background-size: auto, cover;
-  background-attachment: fixed; */
-  background-image:
-    url("..\images\touchmouse1.gif");
-  background-size: auto, cover;
-  background-attachment: fixed;
-  color: #c3c3c3;
 }

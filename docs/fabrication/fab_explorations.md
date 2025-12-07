@@ -12,7 +12,7 @@ Explorations done within and outside of the fabrication course.
 
     !!! note inline end "Test"
 
-        ![](../images/rainbow_pic.jpg)
+        ![](../images/fab_pics/rainbow_pic.jpg)
 
     !!! abstract "Code"
 
@@ -62,13 +62,13 @@ Explorations done within and outside of the fabrication course.
 
         This material would make grest lamps if thinner, although it would be more fragile. Could also be used to create interesting lighting effects for sets in stop motion or claymation.
 
-        ![](../images/Result.jpg)
+        ![](../images/fab_pics/Result.jpg)
 
     ??? note "Images"
 
-        ![](../images/Comparison.jpg)
-        ![](../images/Resin.jpg)
-        ![](../images/Resin_process.jpg)
+        ![](../images/fab_pics/Comparison.jpg)
+        ![](../images/fab_pics/Resin.jpg)
+        ![](../images/fab_pics/Resin_process.jpg)
 
     ??? example "RECIPE"
 
