@@ -1,11 +1,7 @@
-# **:dragon:**
-
-:dragon:
+#
 
 Welcome to my space. You can see my work done during the MDEF programme at IAAC, Barcelona.
 
-??? tip "Experiments in Touch Designer"
+!!! tip ""
 
     ![](images/touchmouse1.gif)
-
-![](images/Hands.jpg)
