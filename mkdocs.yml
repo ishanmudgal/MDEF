@@ -1,0 +1,127 @@
+# Replace the text below to customize your site
+site_name: Ishan's Space
+site_description: Master in Design for Emergent Futures
+site_author: Ishan Mudgal
+copyright: Copyright 2025 "Ishan Mudgal" - GNU Free Documentation License
+repo_name: "Name : Github Repo"
+site_url: https://fablabbcn.github.io/mdef-template/
+repo_url: "https://github.com/fablabbcn/mdef-template"
+
+nav:
+  - HOME: index.md
+  - ABOUT: about/me.md
+  - STUDIO 01:
+      - Design Bet: studio_01/bet.md
+      - Initial Ideas: studio_01/initial.md
+      - 3 Actions: studio_01/actions.md
+  - REFLECTIONS 01:
+      - Living With Your Own Ideas: 
+          - Prosthetic Prototyping: reflections_01/prototypes.md
+          - My Reflections: reflections_01/reflections.md
+  - OTHER SPECIES 01:
+          - WIP: otherspecies_01/otherspecies.md
+  - UNPACKING TECH SYSTEMS:
+      - From Radio to Killjoy : unpacking_tech/unpackingtech.md
+      - Forensic Reports: unpacking_tech/forensic_reports.md
+      - Reflections (Zine): unpacking_tech/zine.md
+  - FABRICATION:
+      - Pre-courses & Fundamentals: fabrication/fabrication.md
+      - Explorations: fabrication/fab_explorations.md
+  
+
+extra:
+  social:
+    # For other social icons at https://squidfunk.github.io/mkdocs-material/setup/adding-social-links/
+    - icon: fontawesome/brands/medium
+      link: https://medium.com/
+    - icon: fontawesome/brands/instagram
+      link: https://instagram.com/
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/
+    - icon: fontawesome/brands/linkedin
+      link: "https://www.linkedin.com/in/"
+    - icon: fontawesome/brands/github
+      link: "https://github.com/"
+
+theme:
+  name: material
+  # name: simple-blog
+  # name: dracula
+  palette:
+    scheme: slate
+    primary: default
+    accent: default
+  custom_dir: overrides
+  font:
+    # text: Space Grotesk
+    # text: Rubik Maze
+    # text: Lexend Peta
+    text: Jura
+    code: Cutive Mono
+  icon:
+    logo: material/memory
+    annotation:
+    admonition:
+      note: material/image-multiple 
+  favicon: images/favicon.svg
+  features:
+    - instant
+    - navigation.expand
+    - navigation.indexes
+    - navigation.instant
+    - navigation.tabs
+    - navigation.tabs.sticky
+    # - navigation.top
+    - navigation.tracking
+
+plugins:
+  - search
+  # - git-revision-date-localized:
+  #     fallback_to_build_date: true
+  # - toggle-sidebar:
+  #     theme: material
+  #     toggle_button: all
+  #     enabled: True
+
+markdown_extensions:
+  - extra
+  - smarty
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - codehilite:
+      guess_lang: false
+  - toc:
+      permalink: true
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - attr_list
+  - md_in_html
+  - footnotes
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:pymdownx.emoji.twemoji
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.snippets:
+      base_path: "docs"
+  - pymdownx.superfences
+  - pymdownx.keys
+  - pymdownx.tilde
+  - pymdownx.tabbed:
+      alternate_style: true
+
+
+extra_css:
+  # - stylesheets/extra.css
+  - stylesheets/custom.css
