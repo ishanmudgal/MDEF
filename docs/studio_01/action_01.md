@@ -6,4 +6,4 @@ I finally went ahead with the app, to try it on myself to see if I could effecti
 
 !!! tip "Video"
 
-    link here
+    Practicing Coded Comms
