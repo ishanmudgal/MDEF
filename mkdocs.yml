@@ -9,25 +9,27 @@ repo_url: "https://github.com/fablabbcn/mdef-template"
 
 nav:
   - HOME: index.md
-  # - ABOUT: about/me.md
-  # - STUDIO 01:
-  #     - Design Bet: studio_01/bet.md
-  #     - Initial Ideas: studio_01/initial.md
-  #     - 3 Actions: studio_01/actions.md
-  # - REFLECTIONS 01:
-  #     - Living With Your Own Ideas: 
-  #         - Prosthetic Prototyping: reflections_01/prototypes.md
-  #         - My Reflections: reflections_01/reflections.md
-  # - OTHER SPECIES 01:
-  #         - WIP: otherspecies_01/otherspecies.md
+  - ABOUT: about/me.md
+  - STUDIO 01:
+      - Context: studio_01/context.md
+      - Prototyping the Actions: studio_01/action_prototypes.md
+      - Individual Action: studio_01/action_01.md
+      - Collective Action: studio_01/action_02.md
+  - REFLECTIONS 01:
+      - Living With Your Own Ideas: 
+          - Prosthetic Prototyping: reflections_01/prototypes.md
+          - My Reflections: reflections_01/reflections.md
+  # - ECOLOGICAL INTERACTIONS: 
+  #     - Other Species: otherspecies.md
+  #     - Cottage Industry: cottage_ink&paper.md
   - UNPACKING TECH SYSTEMS:
       - From Radio to Killjoy : unpacking_tech/unpackingtech.md
       - Forensic Reports: unpacking_tech/forensic_reports.md
       - Reflections (Zine): unpacking_tech/zine.md
   - FABRICATION:
-      - Pre-courses & Fundamentals: fabrication/fabrication.md
-      - Explorations: fabrication/fab_explorations.md
-  
+        - Explorations: fabrication/fab_explorations.md
+        - Pre-courses & Fundamentals: fabrication/fabrication.md
+ 
 
 extra:
   social:
