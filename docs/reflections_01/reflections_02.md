@@ -1,0 +1,21 @@
+I have left my thoughts as they flowed. This course was meant to make us think, and that it did. Although many of my friends back home still make fun of me for getting lectures from a goat (as they like to put it), I know that they wouldn't understand, and I also know they are slightly jealous for the break I get from the monotony of an every day life. The reflections course has been exactly that for me - kind of like a teleportation machine - and for a while, I was transported away from here. To whomsoever may read this, I hope you enjoy it - these are some of my deepest and weirdest thoughts.
+
+# **To Question**
+
+Where do I come from? What made me who I am? What am I? What am I going to be? What do I want to be?
+
+This course left me with more questions than answers. So I'm leaving them all here.
+
+What does it mean to be human? Were we ever truly human? Is it human nature to deny our mortality and find purpose beyond the workings of the world around us?
+
+Will we survive our own misdeeds? Do we deserve the comfort we have built? What truly was the cost? Can it be calculated? Does a calculation show the real impact we have had on the environment? Does it reveal the damage we have done to ourselves?
+
+What does it mean to beat death? Can we evolve? Can we induce metamorphosis? Can we endure metamorphosis? What would we morph into if we could? Would we transform to be better versions of ourselves? What does it mean to be better - to be stronger, more durable, or more responsible? Who decides? Is it individual? Do we respect the individual idea of being better no matter what?
+
+# **To Dream**
+
+I dream of playing music on the stage. To perform. I always dreamed of fantastical worlds beyond the one we live in. I always dreamed of living in the sky among the clouds, of living deep in the sea. I dream of a world where everything we imagine for the future can intertwine with everything we love about the past. A world where we may create without unknowingly destroying that which is important to us. Creation and Destruction go hand-in-hand, but at what cost? We built a machine, but we forgot to build in the brakes. If we built different what would the world look like? Would products all not be made of plastic and metal? would computing be something other than the infinite chaos of rubber coated wires and soldered silicon chips? Would we live with nature? Does nature want to live with us? When did we as humans get the audacity to decide that we are more, further, beyond, greater than or better than nature? Does nature care?
+
+# **To Become**
+
+Some part of me always wanted to become an artist. Some part of me wants to melt into a tree one day. A part of me wants to see every celestial body, to step foot on every planet and its moons, to float into a nebula. Not to own any of them, maybe to experience them. To understand them. Even the trees. Is this greed? Should we shut up and behave the way we are supposed to and be creatures of the Earth, and do our role in its natural processes of creation and decay? of life and death? In doing that must we renounce art and other abstractions? Maybe its okay to move beyond this, but then we start destroying that which we come from. Is it because of a sense of detachment? A false sense of purpose maybe? What is this 'purpose' we always chase? Must we have purpose? Sometimes I want to become invisible. Just disappear entirely. Sometimes I want to be as present as a great flash of light hitting the eyes the moment after one wakes up from a long sleep. Sometimes I want to be blurry. Like a piece of impressionist or abstract art. Sometimes I just want to become art. Can I be art? Am I already art? Some part of me bacame an artist long ago. That part of me still makes music and draws sometimes. Some part of me became a designer. Some part of me has become a teacher. There are many other parts, and they feel interconnected, yet incredibly separated. To the point it feels like one single entity was broken. Fractured. A million parts that can never be stitched together. What have I become? And what will it mean for this to create? Are we like coral reefs? Every thing we create adds a shell, a layer of identity and meaning to our lives for ourselves and others to experience. Both functional and aesthetic. Without this we are nothing. And so, to become... I must create?

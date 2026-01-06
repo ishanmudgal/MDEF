@@ -34,7 +34,7 @@ After this I decided to add in even more randomness, with buttons which keep cha
 
 ??? tip "Zap! - Video"
 
-    [Zap!](https://drive.google.com/file/d/1GRIKLYVkYkkSHSU1g-K7WyMx9X29GpeZ/view?usp=drive_link)
+    Click Here > [Zap!](https://drive.google.com/file/d/1GRIKLYVkYkkSHSU1g-K7WyMx9X29GpeZ/view?usp=drive_link)
 
 ![](../images/studio_01_pics/random_03.png)
 
