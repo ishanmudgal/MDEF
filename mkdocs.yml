@@ -32,9 +32,9 @@ nav:
       - Forensic Reports: unpacking_tech/forensic_reports.md
       - Reflections (Zine): unpacking_tech/zine.md
   - FABRICATION:
-        - Explorations: fabrication/fab_explorations.md
-        - Pre-courses & Fundamentals: fabrication/fabrication.md
- 
+        - Fundamentals: fabrication/fabrication.md
+        - Explorations: fabrication/fab_explorations.md 
+
 
 extra:
   social:
@@ -78,7 +78,7 @@ theme:
     - navigation.instant
     - navigation.tabs
     - navigation.tabs.sticky
-    # - navigation.top
+    - navigation.top
     - navigation.tracking
 
 plugins:
@@ -125,8 +125,8 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.keys
   - pymdownx.tilde
-  - pymdownx.tabbed:
-      alternate_style: true
+  # - pymdownx.tabbed:
+  #     alternate_style: true
 
 
 extra_css:

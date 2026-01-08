@@ -88,10 +88,52 @@ Explorations done within and outside of the fabrication course.
         4. Crush the dried avocado seeds and mix with the dried orange peels. Mix it in.
         5. Pour the mix into any kind of mould. I used an embroidery ring with butter paper to form the base and frame.
 
+## 3D Printing
+
+??? tip "Interconnected Models"
+
+    I attempted to print many things as I set out on the journey to learn 3d printing. THE FOLLOWING ARE NOT MY DESIGNS.
+
+    ??? tip "NASA chain mail"
+
+        I downloaded a single unit of this chain mail designed by NASA, and put it together and started testing with scale and material. It printed great on the standard opaque PLA, but had some issues with the transparent PLA. The unit tests were fine, but there were errors in the final print for the transparent material (possibly due to the smaller scale). I also tried creating my own design (triangle) which did not work and will have to br redesigned more carefully.
+
+        Single Unit:
+
+        ![](../images/fab_pics/3D_1.jpg)
+        ![](../images/fab_pics/3D_2.jpg)
+
+        The final chain mail
+
+        ![](../images/fab_pics/3D_3.jpg)
+
+        The Printing Process:
+
+        ![](../images/fab_pics/3D_4.jpg)
+        ![](../images/fab_pics/3D_5.jpg)
+        ![](../images/fab_pics/3D_6.jpg)
+        ![](../images/fab_pics/3D_7.jpg)
+        ![](../images/fab_pics/3D_8.jpg)
+
+    ??? tip "Interlocked Shark"
+
+        The shark gave me trouble, and the print failed multiple times. This is how I discovered and figured out the 'brim' function that finally allowed me to successfully print the shark.
+
+        ![](../images/fab_pics/shark_main.gif)
+
+        Failed Sharks:
+
+        ![](../images/fab_pics/shark_1.jpg)
+        ![](../images/fab_pics/shark_2.jpg)
+
+        Successful sharks & process with brim:
+
+        ![](../images/fab_pics/shark_3.jpg)
+        ![](../images/fab_pics/shark_4.jpg)
+        ![](../images/fab_pics/shark_5.jpg)
 
 
 
-
-
-
-    <!-- ## Laser-cutting -->
+    ??? tip "Herringbone gear fidget spinner"
+        ![](../images/fab_pics/spin_2.jpg)
+        ![](../images/fab_pics/spin_1.jpg)

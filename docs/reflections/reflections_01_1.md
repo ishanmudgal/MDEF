@@ -1,4 +1,4 @@
-# **Reflecions_01 - Living With Your Own Ideas**
+# **Reflections_01 - Living With Your Own Ideas**
 
 !!! tip inline end ""
 

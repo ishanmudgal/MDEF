@@ -17,7 +17,9 @@ A sample game for us to try. I created starter words for three rounds:
 
 ## Playtesting
 
-Video - [Shifting Tongues](https://drive.google.com/file/d/1aHfqPrrGnSv7pMles5oTptooIdO60AmM/view?usp=drive_link)
+Video - [Shifting Tongues](https://drive.google.com/file/d/1aHfqPrrGnSv7pMles5oTptooIdO60AmM/view?usp=drive_link) (click this link if video below doesn't work)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zSWOuYKsx3o?si=3R_cfLjFwipgfr5f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 We played the first round online, and I decided to take part in the conversation, but while being an observer.
 
@@ -33,8 +35,12 @@ Despite very good attempts by the commoners, the authority won yet again. Throug
 
 It turned out that it was still too difficult, and that my idea for the evolving encoding may not be the best one.
 
-Later at night, we went have a few beers after the playtest, and played a game where the group decides a rule, and one person does not know and has to figure out what rule it is. It could be tapping your beer twice after drinking, or everyone drinks when anybody touches their hair, etc. It was suggested by someone else, and was great to see because it worked much more smoothly than my game. Some rules were figured out, but some were impossible to figure, like the hair one. The person guessing figured out that we were drinking, but couldn’t find the pattern.
+Later at night, we went have a few beers after the playtest, and played a game where the group decides a rule, and one person does not know and has to figure out what rule it is. It could be tapping your beer twice after drinking, or everyone drinks when anybody touches their hair, etc. It was suggested by someone else, and was great to see because it worked much more smoothly than my game. Some rules were figured out, but some were impossible to figure, like the hair one. The person guessing figured out that we were sipping our beers at the same time, but couldn’t find the cause of the pattern.
 
 For my next test, I would like to simply give the condition of deciding a message and communicating it, without any rules as such and see what happens, possibly I will learn new tricks that could help build an evolving secret language.
 
 With the somewhat failure of Shifting Tongues, it seems the authority has won on this day, but there were many learnings, and with this the language will evolve and transform, and one day we may use it to fight oppressive powers without them even knowing.
+
+I would also like to thank my friends and colleagues who volunteered to playtest:
+
+    **Swarna Francesco Hannah Heba Aiman Ayal Max Alejandra Sila Armin**

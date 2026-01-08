@@ -10,7 +10,7 @@ To create a quick prototype, I got ChatGPT to make me an excel sheet and add in 
 
     ![](../images/studio_01_pics/Protest_database.png)
 
-As I worked with this data, I realised that many people who were in the situations where they needed to raise their voices and fight against a system of control, they rarely had access to such information or resources. With this I started conceptualising how this could be available secretly or even hidden in plain sight. Could I hide it behind a videogame? With this I started thinking about how censorship is used by systems of control to manipulate and stifle any kind of dissent, and this led me to working with **coded communication**
+As I worked with this data, I realised that many people who were in the situations where they needed to raise their voices and fight against a system of control, they rarely had access to such information or resources. With this I started conceptualising how this could be available secretly or even hidden in plain sight. Could I hide it behind a videogame? With this I started thinking about how censorship is used by systems of control to manipulate and stifle any kind of dissent, and this led me to working with **coded communication**.
 
 # **Coded Communication**
 
@@ -32,9 +32,9 @@ With this I realised that there needs to be some form of encoding, or it would b
 
 After this I decided to add in even more randomness, with buttons which keep changing. Each button has a fixed colour and associated meaning that may be decided upon by the users beforehand, but the text and icons would keep changing. The last button would change all the text and icons of the other buttons. Here is the next version and a little video to show its working. I lovingly started calling this app Zap!
 
-??? tip "Zap! - Video"
+!!! tip "Zap! - Video"
 
-    Click Here > [Zap!](https://drive.google.com/file/d/1GRIKLYVkYkkSHSU1g-K7WyMx9X29GpeZ/view?usp=drive_link)
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/WTQ6rZbAOjw?si=z4zIAEBebNmMZPID" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ![](../images/studio_01_pics/random_03.png)
 
