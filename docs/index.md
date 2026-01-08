@@ -1,8 +1,6 @@
 # Hi, I'm Ishan. Welcome to my space.
 
-!!! tip ""
-
-    ![](images/touchmouse1.gif)
+![](images/touchmouse1.gif)
 
 !!! tip inline end "MDEF"
 
