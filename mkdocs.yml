@@ -13,7 +13,7 @@ nav:
   - STUDIO 01:
       - Context: studio_01/context.md
       - Prototyping the Actions: studio_01/action_prototypes.md
-      - Individual Action: studio_01/action_01.md
+      # - Individual Action: studio_01/action_01.md
       - Collective Action: studio_01/action_02.md
   - REFLECTIONS:
       - Reflections_01:
@@ -23,6 +23,8 @@ nav:
   # - ECOLOGICAL INTERACTIONS: 
   #     - Other Species: otherspecies.md
   #     - Cottage Industry: cottage_ink&paper.md
+  - NARRATIVES:
+      - Narratives_01 Proposal: narratives_01/narratives.md
   - UNPACKING TECH SYSTEMS:
       - From Radio to Killjoy : unpacking_tech/unpackingtech.md
       - Forensic Reports: unpacking_tech/forensic_reports.md
