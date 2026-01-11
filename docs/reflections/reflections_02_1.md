@@ -47,8 +47,9 @@ Reflections Saga Part_03
 ![](../images/Reflections_02/R_02_17.jpg)
 ![](../images/Reflections_02/R_02_18.jpg)
 ![](../images/Reflections_02/R_02_19.jpg)
-![](../images/Reflections_02/R_02_20.jpg)
 
 ### Movie_03
 
 <iframe width="768" height="768" src="https://www.youtube.com/embed/pZV4E3kbJiE" title="Reflections Saga Pt 3. The Weaver" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+![](../images/Reflections_02/R_02_20.jpg)
