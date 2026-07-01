@@ -96,7 +96,7 @@ Explorations done within and outside of the fabrication course.
 
     ??? tip "NASA chain mail"
 
-        I downloaded a single unit of this chain mail designed by NASA, and put it together and started testing with scale and material. It printed great on the standard opaque PLA, but had some issues with the transparent PLA. The unit tests were fine, but there were errors in the final print for the transparent material (possibly due to the smaller scale). I also tried creating my own design (triangle) which did not work and will have to br redesigned more carefully.
+        I downloaded a single unit of this chain mail designed by NASA, and put it together and started testing with scale and material. It printed great on the standard opaque PLA, but had some issues with the transparent PLA. The unit tests were fine, but there were errors in the final print for the transparent material (possibly due to the smaller scale). I also tried creating my own design (triangle) which did not work and will have to be redesigned more carefully.
 
         Single Unit:
 
