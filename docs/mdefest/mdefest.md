@@ -17,3 +17,9 @@ Before the MDEFest I spoke to many friends and other connections about my archiv
 Although people were very tired after a long day in the sun and many other project activations and noise from the afterparty, they interacted and shared their views, and also added political pinpoints on the map. It was great to receive feedback from people. They felt it had potential, and they would like to be a part of this and add to the collective map and access the archive in the future.
 
 I feel the main issues from my end were that my activation was not very well-planned (and the noise from the party and overall audience energy levels also derailed me a bit), the products were all at a very initial stage and I was not able to bring out and showcase the connected power of a collection of tools as I had proposed. I feel I should have relied more on the MDEFest classes and faculty for feedback and to help my process, as well as my peers. I also should have created a connected performance, almost like a game that people would play with the cards to secretly communicate while trying to topple a system of control. It would have used the radio, map and secret comms platforms, while being more immersive and interesting.
+
+## Cognitive Contribution Label
+
+![](../images/CCL_Fragments_of_Freedom_Ishan_Mudgal.png)
+
+I somehow don't agree with this, there was almost no handbuilt things, although I didn't rely entirely on AI for everything either.
