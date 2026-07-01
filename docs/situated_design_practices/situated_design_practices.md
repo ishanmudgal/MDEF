@@ -1,4 +1,4 @@
-# Situated Design Practices
+# **Situated Design Practices**
 
 ## Day 1
 
