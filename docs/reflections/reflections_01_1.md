@@ -20,6 +20,18 @@ At first I had considered 3 very different ideas, including a robotic spine that
 
 ### 3 Ideas
 
+=== "Unordered list"
+
+    * Sed sagittis eleifend rutrum
+    * Donec vitae suscipit est
+    * Nulla tempor lobortis orci
+
+=== "Ordered list"
+
+    1. Sed sagittis eleifend rutrum
+    2. Donec vitae suscipit est
+    3. Nulla tempor lobortis orci
+
 === "Musical Instrument"
 
     The entire body would be used as a part of a digital instrument through multiple connected interfaces.

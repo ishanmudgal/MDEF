@@ -43,4 +43,4 @@ With the somewhat failure of Shifting Tongues, it seems the authority has won on
 
 I would also like to thank my friends and colleagues who volunteered to playtest:
 
-    **Swarna Francesco Hannah Heba Aiman Ayal Max Alejandra Sila Armin**
+**Swarna Francesco Hannah Heba Aiman Ayal Max Alejandra Sila Armin**
