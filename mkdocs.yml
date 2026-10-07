@@ -131,8 +131,8 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.keys
   - pymdownx.tilde
-  # - pymdownx.tabbed:
-  #     alternate_style: true
+  - pymdownx.tabbed:
+      alternate_style: true
 
 extra_css:
   # - stylesheets/extra.css
