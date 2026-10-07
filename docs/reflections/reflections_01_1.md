@@ -4,7 +4,7 @@
 
     ![](../images/Reflections_01/main.gif)
 
-This course was fascinating. It was eye-opening to meet and hear the views of Manuel and Thomas. Their views were incredibly different from each other, and it was inspiring to face these conflicting ideas and to conceptualise our own version of them. I have never been able to live with my own ideas in a sense, and I also have to many of them. I've even created a board on Trello called the Graveyard of Ideas, which features many of the ideas I have had that I have never been able to bring to life. This course allowed me to explore these thoughts and play with them, which was an amazing learning experience for me.
+This course was fascinating. It was eye-opening to meet and hear the views of Manuel and Thomas. Their views were incredibly different from each other, and it was inspiring to face these conflicting ideas and to conceptualise our own version of them. I have never been able to live with my own ideas in a sense, and I also have too many of them. I've even created a board on Trello called the Graveyard of Ideas, which features many of the ideas I have had that I have never been able to bring to life. This course allowed me to explore these thoughts and play with them, which was an amazing learning experience for me.
 
 ## **DAY_01**
 
@@ -40,7 +40,7 @@ At first I had considered 3 very different ideas, including a robotic spine that
 
 ### Final Idea
 
-What if I could be a muscial instrument from head to toe?
+What if I could be a musical instrument from head to toe?
 
 I decided to go all the way with this one and build myself into a musical instrument. The basic idea was to be able to play music anywhere, anytime with complete access and control.
 
@@ -78,9 +78,9 @@ Here are the details of the idea from the sketches and rough prototypes of the h
 
 **To become something else.**
 
-To be beyond human, was an exciting prospect. I don't think I want to be a goat, but I have certainly imagined being something more than human. This was a difficult one to decide, and I spent a lot of time thinking. To try and get somewhere, I tried to think of the most out-of-body and mind experience I have ever had. The most disconnected I have felt from the idea of being human. And with this I remembered my experience paragliding in the hills of Bir Billing back in India a few years ago. I was so scared for days before, but when we finally jumped off the side of the mountain, everything changed. It was the calmest most peaceful experience. The slow and soft whistling of the wind, the untouched forests high up in the mountains, the snow-capped peaks hiding between the clouds. We went through a cloud, and as we came out, the entire valley was suddenly revealed. It felt like I could see the entire country, far far away. All problems were so far, everything that made me feel chained down was far down below. Since then I have had dreams of wanting to fly and of a home hanging from a cliff above clouds.
+To be beyond human, was an exciting prospect. I don't think I want to be a goat, but I have certainly imagined being something more than human. This was a difficult one to decide, and I spent a lot of time thinking. To try and get somewhere, I tried to think of the most out-of-body and mind experience I have ever had. The most disconnected I have felt from the idea of being human. And with this I remembered my experience paragliding in the hills of Bir Billing back in India a few years ago. I was so scared for days before, but when we finally jumped off the side of the mountain, everything changed. It was the calmest most peaceful experience. The slow and soft whistling of the wind, the untouched forests high up in the mountains, the snow-capped peaks hiding between the clouds. We went through a cloud, and as we came out, the entire valley was suddenly revealed. It felt like I could see the entire country, far far away. All my problems were so far, everything that made me feel chained down was far down below. Since then I have had dreams of wanting to fly, and a dream of a home hanging from a cliff above the clouds.
 
-I was not as happy with my prototype for the second day as it was a bit rushed and I feel I was not able to capture the feeling that had led me to this concept. Maybe I could have used cotton and cushioning to make the wings feel more like clouds? It was fun to make them fold into themselves.
+I was not as happy with my prototype for the second day as it was a bit rushed and I feel I was not able to capture the feeling that had led me to this concept. Maybe I could have used cotton and cushioning to make the wings feel more like clouds? It was fun to make the wings fold into themselves.
 
 ??? tip "The wings"
 
