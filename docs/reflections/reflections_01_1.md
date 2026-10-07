@@ -20,19 +20,25 @@ At first I had considered 3 very different ideas, including a robotic spine that
 
 ### 3 Ideas
 
-=== "Musical Instrument"
+===
+
+    "Musical Instrument"
 
     The entire body would be used as a part of a digital instrument through multiple connected interfaces.
 
     ![](../images/Reflections_01/sketch_01.jpg)
 
-=== "Robotic Spine"
+===
+
+    "Robotic Spine"
 
     The robotic spine would support daily activities and movement, also allowing increased strength later into our lives.
 
     ![](../images/Reflections_01/sketch_03.jpg)
 
-=== "The Ultimate Pollution Mask"
+===
+
+    "The Ultimate Pollution Mask"
 
     This mask would be built for Delhi pollution, and Delhi air in general, and would have settings to change the filters. It would be built into the jaw, and new masks could be connected based on the need. This would allow filtering in 250+ aqi, filter out smells, etc.
 
