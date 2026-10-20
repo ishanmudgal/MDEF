@@ -12,9 +12,11 @@ The second part which for me was absolutely incredible was the making of Ocarina
 
 SUPERCOMPUTING & THE CHURCH
 
-THe supercomputing centre itself was not incredibly surprising or awe-inspiring at first. The idea of what it could do was still incredible. But this changed the moment we went to visit the photon based comupter. One of the most surreal experiences I've had in years, the photon based was situated inside an ancient cathedral building, and was an awe-inspiring and chaotic experience for me. The reclaiming of a religious space for technology was strange to look at, but also aesthetically stunning. I felt like I had entered an alternate reality or a sci-fi movie where the basic nature of the world and society was entirely different. I have been interested in alternate forms of and innovations in computing, but this was beyond my wildest imagination. The cultures of the antient world housing technologies of the future. Could there possibly be a world where these can move forward hand-in-hand? Would such a coming together work out for the better? Who knows. Words can explain no nore. Here are some pictures.
+THe supercomputing centre itself was not incredibly surprising or awe-inspiring at first. The idea of what it could do was still incredible. But this changed the moment we went to visit the photon based comupter. One of the most surreal experiences I've had in years, the photon based computer was situated inside an ancient cathedral building, and was an awe-inspiring and chaotic experience for me. The reclaiming of a religious space for technology was strange to look at, but also aesthetically stunning. I felt like I had entered an alternate reality or a sci-fi movie where the basic nature of the world and society was entirely different. I have been interested in alternate forms of and innovations in computing, but this was beyond my wildest imagination. The cultures of the ancient world housing technologies of the future. Could there possibly be a world where these can move forward hand-in-hand? Would such a coming together work out for the better? Who knows.
 
-??? tip "The Photon Computer in a Church"
+Words can explain no more. Here are some pictures:
+
+??? tip "The Photon Computer in a Church - Pictures"
 
     ![](../images/Supercomputing/PC1.jpg)
     ![](../images/Supercomputing/PC2.jpg)
